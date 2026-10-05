@@ -5,7 +5,7 @@ I am a results-driven humanitarian and development professional with 15+ years o
 
 Currently serving as a Project Manager with WFP/HAALO under a World Bank-supported programme, with extensive experience supporting humanitarian and development interventions across Afghanistan.
 
-💼 Professional Profile
+Professional Profile
 15+ years of experience in humanitarian and development programmes
 Project Management & Programme Implementation
 Monitoring, Evaluation, Accountability & Learning (MEAL/M&E)
@@ -16,7 +16,7 @@ Reporting, Documentation & Analysis
 Beneficiary Registration & Verification
 Cash-Based Interventions & Field Distribution
 Capacity Building & Staff Supervision
-🌍 Professional Experience
+Professional Experience
 WFP / HAALO – World Bank Programme
 
 Project Manager | Ghazni, Afghanistan
@@ -63,7 +63,7 @@ Reporting & Documentation
 Data Collection & Analysis
 Capacity Building
 Risk Identification & Mitigation
-💻 Technical Skills
+Technical Skills
 ODK
 SCOPE
 mPOS
@@ -73,11 +73,11 @@ Data Collection & Verification
 Digital Monitoring Tools
 Beneficiary Management Systems
 Data Quality Assurance
-🎯 Areas of Professional Expertise
+Areas of Professional Expertise
 
 Humanitarian Assistance | Project Management | Monitoring & Evaluation | Programme Implementation | Cash-Based Interventions | Field Operations | Data Quality | Reporting | Stakeholder Coordination | Team Management
 
-📊 Professional Approach
+Professional Approach
 
 I am committed to delivering programmes with a strong focus on:
 
@@ -89,7 +89,7 @@ Effective coordination
 Timely implementation
 Continuous improvement
 Results and impact
-📚 Professional Interests
+Professional Interests
 Humanitarian & Development Programming
 Project Management
 Monitoring, Evaluation & Learning
@@ -98,12 +98,12 @@ Data Quality & Evidence-Based Programming
 Cash-Based Assistance
 Community Engagement
 Programme Quality & Accountability
-📫 Connect With Me
+Connect With Me
 
 I am open to professional opportunities, collaboration, knowledge sharing, and meaningful humanitarian and development initiatives.
 
 GitHub: AzizAzimi344
 
-⭐ Professional Mission
+Professional Mission
 
 To contribute to effective, accountable and evidence-based humanitarian and development programmes that deliver measurable results for communities.
